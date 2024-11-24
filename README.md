@@ -12,6 +12,9 @@ Interfaz intuitiva: Diseño pensado para facilitar su uso por cualquier usuario.
 
 
 🛠️ Tecnologías utilizadas
+
 Frontend: HTML5, CSS3, JavaScript (frameworks como Bootstrap)
+
 Backend: Java
+
 Base de datos: MySQL
